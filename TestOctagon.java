@@ -1,9 +1,9 @@
-/** Program: Octagon Cloning, and Comparing 
- * Summary: A program that creates an Octagon, displays it's parimeter and area, then clones the octagon. 
- * The cloned octagon is then compared using the compareTo metod to ensure it is exactly the same as the original octagon. 
- * File: TestOctagon.java
- * Author: Lee Tompkins 
- * Date: July 25 2016 
+/** Program:  Octagon Cloning, and Comparing 
+ *  File:     TestOctagon.java
+ *  Summary:  A program that creates an Octagon, displays it's parimeter and area, then clones the octagon. 
+ *            The cloned octagon is then compared using the compareTo metod to ensure it is exactly the same as the original octagon. 
+ *  Author:   Lee Tompkins 
+ *  Date:     July 25 2016 
  **/
 import java.lang.Comparable;
 import java.lang.Cloneable;
